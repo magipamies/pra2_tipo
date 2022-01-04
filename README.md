@@ -4,12 +4,6 @@ Script que analitza el conjunt de dades [Heart failure clinical records Data Set
 
 Aquest projecte és la Pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
 
-# Documentació
-
-El document [PRA2_magipamies.pdf](PRA2_magipamies.pdf) conté les respostes de la Pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
-
-
-
 # Carpetes
 
 El repositori conté tres carpetes:
@@ -17,6 +11,13 @@ El repositori conté tres carpetes:
  - [doc](doc): Carpeta amb els documents sortits d'executar l'script.
  - [input](input): Capeta amb l'arxiu 'csv' a partir del qual l'script n'analitza les dades.
 
+# Documentació
+
+El document [PRA2_magipamies.pdf](PRA2_magipamies.pdf) conté les respostes de la Pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
+
+# Autor
+
+Magí Pàmies Sans.
 
 # Llicència
 
